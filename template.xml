@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templates>
+    <template id="home_box">
+        <![CDATA[
+            <div>
+                <h1><%= title %></h1>
+                <p><%= content %></p>
+            </div>
+        ]]>
+    </template>
+</templates>
