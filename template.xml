@@ -8,4 +8,12 @@
             </div>
         ]]>
     </template>
+    <template id="home_page">
+        <![CDATA[
+            <div id="box">
+                <div id="front">Hello</div>
+                <div id="back">Backbone</div>
+            </div>
+        ]]>
+    </template>
 </templates>

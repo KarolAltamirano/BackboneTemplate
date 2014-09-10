@@ -49,9 +49,16 @@ define(['./app', 'backbone', './models', './collections'], function (App) {
 
             this.$el.html(this.template(content));    
         },
+        renderHome: function () {
+            this.$el.html(this.templateHome());
+        },
         template: function (json) {
             var tmp = $(App.Templates).find("#home_box").text();
             return _.template(tmp, json);
+        },
+        templateHome: function () {
+            var tmp = $(App.Templates).find("#home_page").text();
+            return _.template(tmp);
         }
     });
 

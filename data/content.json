@@ -1,10 +1,5 @@
 [
     {
-        "id": 1,
-        "title": "Tempor neque lacinia pretium", 
-        "content": "Praesent vitae arcu tempor neque lacinia pretium. Integer tempor. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat. Etiam quis quam."
-    },
-    {
         "id": 2,
         "title": "Mauris elementum mauris", 
         "content": "Nullam faucibus mi quis velit. Mauris elementum mauris vitae tortor. Nulla est. Vestibulum erat nulla, ullamcorper nec, rutrum non, nonummy ac, erat. Phasellus faucibus molestie nisl. Nulla turpis magna, cursus sit amet, suscipit a, interdum id, felis."

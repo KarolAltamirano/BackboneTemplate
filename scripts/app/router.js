@@ -26,7 +26,7 @@ define(['./app', 'backbone', './models', './collections', './views'], function (
             '' : 'index'
         },
         index: function () {
-            this.pageView.render(1);
+            this.pageView.renderHome();
         },
         defaultRoute: function (id) {
             this.pageView.render(id);
